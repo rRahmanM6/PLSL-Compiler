@@ -17,4 +17,4 @@ This repository contains a Lexical Analyzer, an Interpreter, and a Recursive-Des
 14. Var ::= IDENT
 15. Factor ::= IDENT | ICONST | RCONST | SCONST | (Expr)
 
-Please see the assignment PDF's for further details.
+Please see the assignment PDF file for further details.
