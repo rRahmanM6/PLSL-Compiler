@@ -1,5 +1,5 @@
 # PLSL-Compiler
-This repository contains a Lexical Analyzer, an Interpreter, and a Recursive-Descent Parser, which are three parts of a compiler for a small Pascal-Like Simple Language (PLSL). The PLSL syntax has some features similar to the well-known Pascal Language. The syntax definitions of the small programming language, are given using the following EBNF notations:
+This repository contains a Lexical Analyzer, a Recursive-Descent Parser, and an Interpreter, which are three parts of a compiler for a small Pascal-Like Simple Language (PLSL). The PLSL syntax has some features similar to the well-known Pascal Language. The syntax definitions of the small programming language, are given using the following EBNF notations:
 
 1. Prog ::= PROGRAM IDENT; DeclBlock ProgBody
 2. DeclBlock ::= VAR {DeclStmt;}
